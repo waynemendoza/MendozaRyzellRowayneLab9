@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "293995931530",
+    "firebase_url": "https://mendozaryzellrowaynelab9.firebaseio.com",
+    "project_id": "mendozaryzellrowaynelab9",
+    "storage_bucket": "mendozaryzellrowaynelab9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293995931530:android:57b6f4e4102bef3b",
+        "android_client_info": {
+          "package_name": "com.mendoza.ryzellrowayne"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293995931530-ngvq95fovelvhojf6hlmidq8e4romibq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mendoza.ryzellrowayne",
+            "certificate_hash": "28442294ecb39550aa902fc4d9a689af8bb70afb"
+          }
+        },
+        {
+          "client_id": "293995931530-jmbft387nlp8l92pbqpumivdf0pm41p6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAreHdNb27l5OBzyv3rLyLUjI1R3QxtpZQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293995931530-jmbft387nlp8l92pbqpumivdf0pm41p6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
